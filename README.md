@@ -97,4 +97,22 @@ options = {
 
 ---
 
+## Options
+### outpath
+*String*
+
+The directory where you new file will be created.
+
+### name
+*String*
+
+The name of your new file.
+
+#### match
+*String*
+
+Regular expression to match media queries.
+
+
+
 This can be improved. Contributions are welcome. Create an issue if you see a problem or to ask a question.
