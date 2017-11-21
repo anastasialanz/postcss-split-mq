@@ -98,12 +98,12 @@ options = {
 ---
 
 ## Options
-### outpath
+#### outpath
 *String*
 
 The directory where you new file will be created.
 
-### name
+#### name
 *String*
 
 The name of your new file.
@@ -112,6 +112,9 @@ The name of your new file.
 *String*
 
 Regular expression to match media queries.
+
+#### skip
+
 
 
 
