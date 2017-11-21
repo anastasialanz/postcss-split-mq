@@ -6,6 +6,8 @@ PostCSS plugin to split specific media queries into separate files.
 
 ## Usage
 
+`npm install postcss-split-mq`
+
 Assuming a CSS file like this:
 ```css
 /* main.css */
