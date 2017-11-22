@@ -119,6 +119,7 @@ Takes an array of Regular expressions to match media queries.
 
 #### skip
 *Regular Expression*
+
 Takes an array of Regular expressions to skip certain media queries.
 
 ---
