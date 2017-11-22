@@ -95,7 +95,6 @@ options = {
 };
 ```
 
----
 
 ## Options
 #### outpath
@@ -109,13 +108,14 @@ The directory where you new file will be created.
 The name of your new file.
 
 #### match
-*String*
+*Regular Expression*
 
 Regular expression to match media queries.
 
 #### skip
+*Regular Expression*
+Regular expression to skip certain media queries.
 
-
-
+---
 
 This can be improved. Contributions are welcome. Create an issue if you see a problem or to ask a question.
