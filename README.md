@@ -100,7 +100,7 @@ options = {
 #### outpath
 *String*
 
-The directory where you new file will be created.
+The directory where the new file will be created.
 
 ### files
 *Object*
@@ -115,11 +115,11 @@ The name of your new file.
 #### match
 *Regular Expression*
 
-Regular expression to match media queries.
+Takes an array of Regular expressions to match media queries.
 
 #### skip
 *Regular Expression*
-Regular expression to skip certain media queries.
+Takes an array of Regular expressions to skip certain media queries.
 
 ---
 
