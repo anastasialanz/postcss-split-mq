@@ -102,6 +102,11 @@ options = {
 
 The directory where you new file will be created.
 
+### files
+*Object*
+
+Files is an object that takes the name of the file and matching media queries.
+
 #### name
 *String*
 
